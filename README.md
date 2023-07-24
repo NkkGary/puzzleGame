@@ -1,2 +1,2 @@
-# puzzleGame
+# PuzzleGame
  C++puzzleGame
